@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "flutterapp",
     "short_name": "flutterapp",
+=======
+    "name": "meiapp",
+    "short_name": "meiapp",
+>>>>>>> 5ea17bf (commit)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

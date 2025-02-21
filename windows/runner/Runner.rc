@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "flutterapp" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "flutterapp" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "flutterapp.exe" "\0"
             VALUE "ProductName", "flutterapp" "\0"
+=======
+            VALUE "FileDescription", "meiapp" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "meiapp" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "meiapp.exe" "\0"
+            VALUE "ProductName", "meiapp" "\0"
+>>>>>>> 5ea17bf (commit)
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
