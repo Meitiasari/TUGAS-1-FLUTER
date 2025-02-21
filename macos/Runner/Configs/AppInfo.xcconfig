@@ -6,16 +6,22 @@
 
 // The application's name. By default this is also the title of the Flutter window.
 <<<<<<< HEAD
+<<<<<<< HEAD
 PRODUCT_NAME = flutterapp
 
 // The application's bundle identifier
 PRODUCT_BUNDLE_IDENTIFIER = com.example.flutterapp
 =======
+=======
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
 PRODUCT_NAME = meiapp
 
 // The application's bundle identifier
 PRODUCT_BUNDLE_IDENTIFIER = com.example.meiapp
+<<<<<<< HEAD
 >>>>>>> 5ea17bf (commit)
+=======
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.

@@ -91,6 +91,7 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
 <<<<<<< HEAD
+<<<<<<< HEAD
             VALUE "FileDescription", "flutterapp" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "flutterapp" "\0"
@@ -98,13 +99,18 @@ BEGIN
             VALUE "OriginalFilename", "flutterapp.exe" "\0"
             VALUE "ProductName", "flutterapp" "\0"
 =======
+=======
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
             VALUE "FileDescription", "meiapp" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "meiapp" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "meiapp.exe" "\0"
             VALUE "ProductName", "meiapp" "\0"
+<<<<<<< HEAD
 >>>>>>> 5ea17bf (commit)
+=======
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

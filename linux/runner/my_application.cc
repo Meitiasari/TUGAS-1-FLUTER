@@ -41,18 +41,24 @@ static void my_application_activate(GApplication* application) {
     GtkHeaderBar* header_bar = GTK_HEADER_BAR(gtk_header_bar_new());
     gtk_widget_show(GTK_WIDGET(header_bar));
 <<<<<<< HEAD
+<<<<<<< HEAD
     gtk_header_bar_set_title(header_bar, "flutterapp");
     gtk_header_bar_set_show_close_button(header_bar, TRUE);
     gtk_window_set_titlebar(window, GTK_WIDGET(header_bar));
   } else {
     gtk_window_set_title(window, "flutterapp");
 =======
+=======
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
     gtk_header_bar_set_title(header_bar, "meiapp");
     gtk_header_bar_set_show_close_button(header_bar, TRUE);
     gtk_window_set_titlebar(window, GTK_WIDGET(header_bar));
   } else {
     gtk_window_set_title(window, "meiapp");
+<<<<<<< HEAD
 >>>>>>> 5ea17bf (commit)
+=======
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
   }
 
   gtk_window_set_default_size(window, 1280, 720);

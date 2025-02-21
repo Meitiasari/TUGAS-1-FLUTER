@@ -28,10 +28,14 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
 <<<<<<< HEAD
+<<<<<<< HEAD
   if (!window.Create(L"flutterapp", origin, size)) {
 =======
   if (!window.Create(L"meiapp", origin, size)) {
 >>>>>>> 5ea17bf (commit)
+=======
+  if (!window.Create(L"meiapp", origin, size)) {
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 name: flutterapp
 =======
 name: meiapp
 >>>>>>> 5ea17bf (commit)
+=======
+name: meiapp
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
@@ -14,9 +18,13 @@ dependencies:
   flutter:
     sdk: flutter
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   http: ^1.3.0
 >>>>>>> 5ea17bf (commit)
+=======
+  http: ^1.3.0
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
 
 dev_dependencies:
   flutter_test:

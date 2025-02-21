@@ -6,10 +6,14 @@
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<string>Flutterapp</string>
 =======
 	<string>Meiapp</string>
 >>>>>>> 5ea17bf (commit)
+=======
+	<string>Meiapp</string>
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -18,10 +22,14 @@
 	<string>6.0</string>
 	<key>CFBundleName</key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<string>flutterapp</string>
 =======
 	<string>meiapp</string>
 >>>>>>> 5ea17bf (commit)
+=======
+	<string>meiapp</string>
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

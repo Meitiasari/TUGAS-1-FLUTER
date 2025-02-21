@@ -1,10 +1,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
 <<<<<<< HEAD
+<<<<<<< HEAD
         android:label="flutterapp"
 =======
         android:label="meiapp"
 >>>>>>> 5ea17bf (commit)
+=======
+        android:label="meiapp"
+>>>>>>> 5ea17bfc2e9108c99ba39ea35aefd53436571a1c
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
